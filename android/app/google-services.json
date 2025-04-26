@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221081337294",
+    "project_id": "nfccrypt",
+    "storage_bucket": "nfccrypt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221081337294:android:071809eb7e5e7a398cff9f",
+        "android_client_info": {
+          "package_name": "com.nfccrypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCFWYZgoZ3CBK4duj0XEGUGFcQ0J4qpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
