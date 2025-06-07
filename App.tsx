@@ -31,6 +31,7 @@ export default function App() {
           tabBarStyle: {
             backgroundColor: GlobalStyles.colors.bar,
             justifyContent: "center",
+           // height: 65,
           },
         }}
       >
